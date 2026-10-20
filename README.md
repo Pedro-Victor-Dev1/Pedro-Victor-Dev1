@@ -1,16 +1,22 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║             PEDRO VICTOR • SYSTEM INTERFACE                 ║
-  ║                    VERSION 1.0.0                             ║
-  ╚══════════════════════════════════════════════════════════════╝
---><div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1F3A,100:5427B8&text=PEDRO%20VICTOR&fontColor=EAFBFF&fontSize=48&fontAlignY=38&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=57&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Pedro Victor - Futuristic developer banner"/>  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+interface...;%3E+Java+%7C+Python+%7C+HTML+%2B+CSS;%3E+Building+ideas+into+code;%3E+Learning.+Creating.+Evolving." alt="Typing animation"/>  <br/>"Status" (https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=statuspal&logoColor=white)
-"Focus" (https://img.shields.io/badge/FOCUS-DEVELOPMENT-8B5CF6?style=for-the-badge&logo=codefactor&logoColor=white)
-"Profile" (https://komarev.com/ghpvc/?username=Pedro-Victor-Dev1&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS)
+<div align="center">
 
-  <br/>"[ CODE ]"   "[ INNOVATION ]"   "[ EVOLUTION ]"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1F3A,100:5427B8&text=PEDRO%20VICTOR&fontColor=EAFBFF&fontSize=48&fontAlignY=38&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Pedro Victor Developer"/>
 
-</div>---
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E+Initializing+developer+interface...;%3E+Java+%7C+Python+%7C+HTML+%2B+CSS;%3E+Building+ideas+into+code;%3E+Learning.+Creating.+Evolving." alt="Typing animation"/>
 
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge" alt="System online"/>
+  <img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-8B5CF6?style=for-the-badge" alt="Development focus"/>
+  <img src="https://komarev.com/ghpvc/?username=Pedro-Victor-Dev1&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
+
+  <br/><br/>
+
+  <b>[ CODE ] &nbsp; [ INNOVATION ] &nbsp; [ EVOLUTION ]</b>
+
+</div>
+
+---
 "01 // SOBRE MIM"
 
 ╭──────────────────────────────────────────────────────╮
